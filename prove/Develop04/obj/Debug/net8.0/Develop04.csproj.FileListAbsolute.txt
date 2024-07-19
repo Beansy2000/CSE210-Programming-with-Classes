@@ -1,0 +1,15 @@
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\bin\Debug\net8.0\Develop04.exe
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\bin\Debug\net8.0\Develop04.deps.json
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\bin\Debug\net8.0\Develop04.runtimeconfig.json
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\bin\Debug\net8.0\Develop04.dll
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\bin\Debug\net8.0\Develop04.pdb
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.AssemblyInfoInputs.cache
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.AssemblyInfo.cs
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.csproj.CoreCompileInputs.cache
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.sourcelink.json
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.dll
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\refint\Develop04.dll
+c:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.pdb
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\Develop04.genruntimeconfig.cache
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\prove\Develop04\obj\Debug\net8.0\ref\Develop04.dll

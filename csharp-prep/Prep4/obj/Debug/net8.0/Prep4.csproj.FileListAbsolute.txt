@@ -1,0 +1,15 @@
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.exe
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.deps.json
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.runtimeconfig.json
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.dll
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.pdb
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfoInputs.cache
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfo.cs
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.csproj.CoreCompileInputs.cache
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.sourcelink.json
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.dll
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\refint\Prep4.dll
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.pdb
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.genruntimeconfig.cache
+C:\Users\Boston\Desktop\BYUI Spring 2024\CSE 210 - Programming with Classes\csharp-prep\Prep4\obj\Debug\net8.0\ref\Prep4.dll
