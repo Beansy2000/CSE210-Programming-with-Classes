@@ -1,9 +1,10 @@
 using System;
-
-class Program
-{
-    static void Main(string[] args)
+namespace ExerciseTracking{
+    class Program
     {
-        Console.WriteLine("Hello Foundation4 World!");
-    }
+        static void Main(string[] args)
+        {
+            
+        }
+    }  
 }
